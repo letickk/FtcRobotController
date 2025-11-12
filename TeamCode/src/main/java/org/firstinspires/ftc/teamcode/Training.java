@@ -8,4 +8,13 @@ public class Training {
     robotHeight  = 10
     motorSpeed = 0.5
     clawClosed = true;
+
+
+
+
+
+
+
+
+
 }
